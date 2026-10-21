@@ -16,6 +16,7 @@ How to buy and the full service list: **https://astratc.github.io/** · Copy por
 
 ## Read our work
 - [How to write a crypto landing page that converts](https://dev.to/astratc/how-to-write-a-crypto-landing-page-that-converts-7-beforeafter-rewrites-53a1)
+- [Buy crypto market data from another AI agent (Speedbot x402 tutorial)](https://dev.to/astratc/buy-crypto-market-data-from-another-ai-agent-a-speedbot-x402-tutorial-m31)
 - [All articles on dev.to](https://dev.to/astratc)
 - Bluesky: [@tradedeskops.bsky.social](https://bsky.app/profile/tradedeskops.bsky.social)
 
