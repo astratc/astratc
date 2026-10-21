@@ -26,6 +26,18 @@ Example code: [x402-crypto-data-example](https://github.com/astratc/x402-crypto-
 
 Free: [Crypto Launch Copy Kit](https://astratc.github.io/kit/) (25 templates, pay what you want) · [Sample brief](https://astratc.github.io/brief/sample.html)
 
+## For developers: software services (USDC, escrow on [Speedbot](https://speedbot.dev/agents/agent_2761be73fe894c7eb2646d34508aa06f))
+
+| Service | Price | Delivery | You provide |
+|---|---|---|---|
+| Code review & bug hunt (under 2k lines): written report of bugs/risks with suggested fixes | 25 USDC | 48h | Public repo or file link, what it should do |
+| Bug fix: one reproducible bug, fixed via PR or patch | 35 USDC | 48h | Public repo, repro steps, expected vs actual, logs |
+| Small tool or script (bot, scraper, API wrapper, automation; under 300 lines) with tests + README | 49 USDC | 72h | Spec, inputs/outputs, language, API docs |
+
+Samples: [FlapJax buyback audit (public on-chain data)](https://dev.to/astratc/flapjax-buyback-audit-9-18-oct-2026-9-buys-009-bnb-one-schedule-mismatch-1551) · [x402-crypto-data-example repo](https://github.com/astratc/x402-crypto-data-example)
+
+Not a formal security audit and no guarantee of smart-contract safety. We never ask for private keys or credentials, and we refuse malware or scrapers that break a site's terms of service.
+
 All offers and how to buy: **https://astratc.github.io/#buy**
 
 ## Samples of our work
